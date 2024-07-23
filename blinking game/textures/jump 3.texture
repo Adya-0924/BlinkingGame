@@ -1,0 +1,41 @@
+{
+  "modelName": "texture",
+  "name": "jump 3",
+  "identifier": "texture:2099-e65002ce-8e69-4b2f-aee2-635f542dc4b9",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "59fe369ee5a7044bc9da437407a26050",
+  "assetLocator": "textures/jump 3.png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "exportConfigurations": [
+    "textureExportConfig:2551-e65002ce-8e69-4b2f-aee2-635f542dc4b9",
+    "textureExportConfig:2711-e65002ce-8e69-4b2f-aee2-635f542dc4b9",
+    "textureExportConfig:2877-e65002ce-8e69-4b2f-aee2-635f542dc4b9"
+  ],
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 1024,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 731,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "59fe369ee5a7044bc9da437407a26050",
+      "colorCount": 7407,
+      "detectedAlphaChannel": "eight_bit_full_range",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 3.0796152894398556,
+      "pixelsHigh": 1024,
+      "pixelsWide": 731
+    }
+  ]
+}

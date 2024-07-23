@@ -1,0 +1,7 @@
+{
+  "modelName": "playback_controller_model",
+  "name": "loop controller",
+  "identifier": "playback_controller_model:23694-245d582b-9c8f-4d30-889e-bd6d36e6418c",
+  "needsContinuousLooping": false,
+  "needsContinuousPlaying": false
+}
